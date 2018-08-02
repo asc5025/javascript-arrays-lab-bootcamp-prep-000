@@ -16,3 +16,4 @@ function destructivelyRemoveLastKitten(name) {
   return kittens;
 }
 
+function destructivelyRemoveLastKitten
