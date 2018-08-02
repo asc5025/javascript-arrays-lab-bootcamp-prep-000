@@ -30,7 +30,7 @@ function prependKitten(name) {
 }
 
 function removeLastKitten() {
-  
+  return array.slice(1)
 } 
 
 function removeFirstKitten() {
